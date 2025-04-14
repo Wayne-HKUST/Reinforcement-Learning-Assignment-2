@@ -1,0 +1,5 @@
+tensorflow==2.15.0
+tf-agents==0.18.0
+py7zr
+tensorflow-probability==0.22.0
+tqdm
